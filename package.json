@@ -19,7 +19,7 @@
     "@alpinejs/persist": "^3.14.3",
     "@floating-ui/dom": "^1.6.12",
     "@material-symbols/svg-400": "^0.23.0",
-    "@tailwindcss/cli": "^4.1.6",
+    "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.15",
     "alpinejs": "^3.14.3",
     "tailwindcss": "^4.1.6"
